@@ -6,4 +6,6 @@
 
 2 - [First Project - Temperature](https://github.com/ndjerrou/1-temperature)
 
-3 - [Second Project - CLI](https://github.com/ndjerrou/2-CLi)
+3 - [Work with standard modules + Learn how to deal with commands for the CLI](https://github.com/ndjerrou/Work_With_Packages)
+
+4 - [Second Project - CLI](https://github.com/ndjerrou/2-commands)
