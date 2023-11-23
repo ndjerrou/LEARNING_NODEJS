@@ -10,6 +10,8 @@
 
 4 - [Second Project - CLI](https://github.com/ndjerrou/2-commands)
 
-5 - [Create our first web server](https://github.com/ndjerrou/web-server)
+5 - [Publish a npm package](https://github.com/ndjerrou/publish_npm_package)
 
-6 - [Third Project - A web server](https://github.com/ndjerrou/3-web_servers)
+6 - [Create our first web server](https://github.com/ndjerrou/web-server)
+
+7 - [Third Project - A web server](https://github.com/ndjerrou/3-web_servers)
