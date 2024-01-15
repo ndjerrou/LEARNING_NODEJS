@@ -15,3 +15,5 @@
 6 - [Create our first web server](https://github.com/ndjerrou/web-server)
 
 7 - [Third Project - A web server](https://github.com/ndjerrou/3-web_servers)
+
+8 - [Getting documentation via Swagger for APIS](https://github.com/ndjerrou/swagger-ui)
